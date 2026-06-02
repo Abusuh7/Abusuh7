@@ -114,7 +114,7 @@ class AbdullahSuhail:
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Abusuh7&theme=dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
 </div>
 
