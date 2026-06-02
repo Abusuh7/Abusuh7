@@ -22,7 +22,7 @@ class AbdullahSuhail:
 
     name         = "Abdullah Suhail"
     location     = "Colombo, Sri Lanka 🇱🇰"
-    degree       = "BSc Software Engineering (First Class Hons)"
+    degree       = "MSc Software Engineering @ APIIT (In Progress)"
 
     stack = [
         "Python", "Java", "C#", "PHP", "JavaScript",
@@ -41,7 +41,7 @@ class AbdullahSuhail:
         "Advanced CNN Architectures",
         "Explainable AI (XAI)",
         "Cloud-Native Architecture on AWS",
-        "Business Management (BMS Diploma)"
+        "MSc Software Engineering @ APIIT"
     ]
 
     funFact = "I built a CNN model to detect leukemia early 🔬"
@@ -114,9 +114,7 @@ class AbdullahSuhail:
 
 <div align="center">
 
-<!-- <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a> -->
-<!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Abusuh7&theme=dark" alt="GitHub Streak" /></a> -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Abusuh7&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Abusuh7&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
@@ -236,7 +234,8 @@ class AbdullahSuhail:
 
 | Degree / Qualification | Institution | Period | Score |
 |------------------------|-------------|--------|-------|
-| 🎓 Graduate Diploma in Business Management | Business Management School (BMS) | 2024 – Present | In Progress |
+| 🎓 MSc Software Engineering | Asia Pacific Institute of Information Technology | 2025 – Present | In Progress |
+| 📋 Graduate Diploma in Business Management | Business Management School (BMS) | 2024 – 2025 | Completed |
 | 🏅 BSc Software Engineering (First Class Hons) | Asia Pacific Institute of Information Technology | 2021 – 2024 | First Class |
 | 📜 Cambridge O/L and A/L | Lyceum International School | 2008 – 2020 | Completed |
 
@@ -250,7 +249,7 @@ class AbdullahSuhail:
 🧠 Explainable AI (XAI)       →  SHAP, LIME, Grad-CAM for model interpretability
 🏗️  Cloud-Native Architecture  →  AWS Lambda, S3, EC2, RDS, API Gateway
 🔬 Advanced Deep Learning     →  Transformer models, attention mechanisms, ViTs
-📊 Business Management        →  Strategy, finance & leadership (BMS Diploma)
+📊 MSc Software Engineering    →  Advanced research methods, dissertation, software architecture
 🛡️  System Security            →  Secure backend design & infrastructure hardening
 ```
 
